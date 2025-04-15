@@ -15,7 +15,9 @@ header {
 }
 
 nav a {
-  margin: 0 0.5em;
+  font-size: 20px;
+  padding: 10px 16px;
+  margin: 0 8px;
   text-decoration: none;
   color: #0077cc;
 }
